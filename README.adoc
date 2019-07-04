@@ -1,3 +1,5 @@
+clone from https://github.com/vert-x3/vertx-maven-starter
+
 = Vert.x Maven Starter
 
 This project is a template to start your own Vert.x project using Apache Maven.
